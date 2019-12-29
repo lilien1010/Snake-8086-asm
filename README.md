@@ -1,2 +1,4 @@
 # Snake-8086-asm
 A Snake game implemented in 8086 asm
+
+![](images/demo.png)
